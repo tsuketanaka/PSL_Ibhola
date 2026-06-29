@@ -1,0 +1,6 @@
+{
+  "name": "PSL iBhola",
+  "description": "Premier Soccer League of Zimbabwe fan app featuring match highlights, fixtures, live scores, standings, tactical match analysis, predictions, and team profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
